@@ -5,7 +5,7 @@
 [*Type III solar radio bursts being detected by the model*]
 
 # **Goal**
-Improving the current non-AI detection of solar radio bursts through a deep learning, object detection approach.
+Improving the current non-AI detection of solar radio bursts through a deep learning, object detection approach. YOLOv5 was selected for that matter.
 
 
 # **Background**
@@ -34,3 +34,7 @@ The output of the bounding boxes of the corresponding classes is in JSON format.
 * Hyperparameter fine tuning
 * Ensemble model (2 AIs or 1 AI with 1 non-AI)
 * Unsupervised clustering
+
+# *References*
+1.   https://colab.research.google.com/github/roboflow-ai/yolov5-custom-training-tutorial/blob/main/yolov5-custom-training.ipynb
+2.   https://blog.roboflow.com/how-to-train-yolov5-on-a-custom-dataset/
