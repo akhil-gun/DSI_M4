@@ -1,5 +1,7 @@
 ### **Author:** Akhil Gunessee
 
+![Example detection](pics/HUMAIN_20220501_153000.png)
+
 # **Goal**
 Object detection of solar radio bursts.
 
