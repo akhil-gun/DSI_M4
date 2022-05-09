@@ -1,4 +1,6 @@
-### **Author:** Akhil Gunessee
+# **Object detection of Solar Radio Bursts** 
+
+**by Akhil Gunessee**
 
 ![Example detection](pics/HUMAIN_20220501_153000.png)
 
@@ -19,8 +21,9 @@ Measuring solar activity through radio observations is a key indicator for monit
 # **Datasets**
 The data can be found on the Humain archives of Royal Observatory of Belgium (ROB), Solar Influences Data Analysis Center's (SIDC) [webpage](https://wwwbis.sidc.be/humain/callisto_archives).
 
-# Annotation done using Labelme
+# Annotation done using Labelme tool
 ![](pics/annotation_example_gif.gif)
+
 The output of the bounding boxes of the corresponding classes is in JSON format.
 
 
@@ -35,6 +38,6 @@ The output of the bounding boxes of the corresponding classes is in JSON format.
 * Ensemble model (2 AIs or 1 AI with 1 non-AI)
 * Unsupervised clustering
 
-# *References*
+# **References**
 1.   https://colab.research.google.com/github/roboflow-ai/yolov5-custom-training-tutorial/blob/main/yolov5-custom-training.ipynb
 2.   https://blog.roboflow.com/how-to-train-yolov5-on-a-custom-dataset/
