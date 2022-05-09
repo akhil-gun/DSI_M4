@@ -18,7 +18,7 @@ The data can be found [here](https://wwwbis.sidc.be/humain/callisto_archives).
 
 
 # **Methodology**
-![Project flow chart](pics/https://github.com/akhil-gun/DSI_M4/blob/main/pics/capstone_workflow.png)
+![Project flow chart](pics/capstone_workflow.png)
 
 # **Future works**
 * Sourcing more data spanning whole operational time of instrument
