@@ -19,6 +19,10 @@ Measuring solar activity through radio observations is a key indicator for monit
 # **Datasets**
 The data can be found on the Humain archives of Royal Observatory of Belgium (ROB), Solar Influences Data Analysis Center's (SIDC) [webpage](https://wwwbis.sidc.be/humain/callisto_archives).
 
+# Annotation done using Labelme
+![](pics/annotation_example_gif.gif)
+The output of the bounding boxes of the corresponding classes is in JSON format.
+
 
 
 # **Methodology**
