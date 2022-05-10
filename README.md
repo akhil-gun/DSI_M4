@@ -45,9 +45,13 @@ The deployed model running a prediction about every minutes can be found here:
 
 https://wwwbis.sidc.be/humain/callisto_ml_burst
 
+In the above webpage, the latest prediction of both the YOLOv5 object detection and the interquartile range (IQR) threshold are displayed for comparison purposes.
+
 The archives of the detected bursts through object detection can be found here (produced as from the 1st of May 2022):
 
 https://wwwbis.sidc.be/humain/callisto_ml_burst_archives
+
+The Mattermost burst notification channel is not available since it is used for internal communication at work.
 
 # **References**
 1.   https://colab.research.google.com/github/roboflow-ai/yolov5-custom-training-tutorial/blob/main/yolov5-custom-training.ipynb
