@@ -31,12 +31,6 @@ The output of the bounding boxes of the corresponding classes is in JSON format.
 # **Methodology**
 ![Project flow chart](pics/capstone_workflow.png)
 
-# **Future works**
-* Sourcing more data spanning whole operational time of instrument
-* Address potential under-representation of certain classes through synthetic spectras
-* Hyperparameter fine tuning
-* Ensemble model (2 AIs or 1 AI with 1 non-AI)
-* Unsupervised clustering
 
 # **Deployment**
 The code for deployment will not be shown due to security reasons and IP issues related to work.
@@ -52,6 +46,13 @@ The archives of the detected bursts through object detection can be found here (
 https://wwwbis.sidc.be/humain/callisto_ml_burst_archives
 
 The Mattermost burst notification channel is not available since it is used for internal communication at work.
+
+# **Future works**
+* Sourcing more data spanning whole operational lifetime of instrument
+* Address potential under-representation of certain classes through synthetic spectras
+* Hyperparameter fine tuning
+* Ensemble model (>= 2 AIs, or 1 AI with 1 non-AI)
+* Unsupervised clustering
 
 # **References**
 1.   https://colab.research.google.com/github/roboflow-ai/yolov5-custom-training-tutorial/blob/main/yolov5-custom-training.ipynb
