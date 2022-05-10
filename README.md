@@ -51,9 +51,13 @@ The Mattermost burst notification channel is not available since it is used for 
 * Sourcing more data spanning whole operational lifetime of instrument
 * Address potential under-representation of certain classes through synthetic spectras
 * Hyperparameter fine tuning
+* Active learning
 * Ensemble model (>= 2 AIs, or 1 AI with 1 non-AI)
 * Unsupervised clustering
 
 # **References**
 1.   https://colab.research.google.com/github/roboflow-ai/yolov5-custom-training-tutorial/blob/main/yolov5-custom-training.ipynb
 2.   https://blog.roboflow.com/how-to-train-yolov5-on-a-custom-dataset/
+3.   https://towardsdatascience.com/the-practical-guide-for-object-detection-with-yolov5-algorithm-74c04aac4843
+4.   https://www.sidc.be/humain/home
+
