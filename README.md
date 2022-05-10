@@ -37,13 +37,13 @@ The code for deployment will not be shown due to security reasons and IP issues 
 
 The deployed model running a prediction about every minutes can be found here:
 
-https://www.sidc.be/humain/callisto_ml_burst
+https://wwwbis.sidc.be/humain/callisto_ml_burst
 
 In the above webpage, the latest prediction of both the YOLOv5 object detection and the interquartile range (IQR) threshold are displayed for comparison purposes.
 
 The archives of the detected bursts through object detection can be found here (produced as from the 1st of May 2022):
 
-https://www.sidc.be/humain/callisto_ml_burst_archives
+https://wwwbis.sidc.be/humain/callisto_ml_burst_archives
 
 The Mattermost burst notification channel is not available since it is used for internal communication at work.
 
