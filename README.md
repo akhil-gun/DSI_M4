@@ -38,6 +38,17 @@ The output of the bounding boxes of the corresponding classes is in JSON format.
 * Ensemble model (2 AIs or 1 AI with 1 non-AI)
 * Unsupervised clustering
 
+# **Deployment**
+The code for deployment will not be shown due to security reasons and IP issues related to work.
+
+The deployed model running a prediction about every minutes can be found here:
+
+https://wwwbis.sidc.be/humain/callisto_ml_burst
+
+The archives of the detected bursts through object detection can be found here (produced as from the 1st of May 2022):
+
+https://wwwbis.sidc.be/humain/callisto_ml_burst_archives
+
 # **References**
 1.   https://colab.research.google.com/github/roboflow-ai/yolov5-custom-training-tutorial/blob/main/yolov5-custom-training.ipynb
 2.   https://blog.roboflow.com/how-to-train-yolov5-on-a-custom-dataset/
