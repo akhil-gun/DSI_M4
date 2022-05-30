@@ -19,7 +19,7 @@ Solar radio bursts are classified pincipally on their appearance in a dynamic sp
 Measuring solar activity through radio observations is a key indicator for monitoring and prediciting space weather. The main advantage of ground-based radio observations over optical ones of the Sun is that the former is unaffected by clouded skies. Keeping an eye on space weather is essential since it can have dire consequences on the state of our satellites (communication, navigation, ...), astronaut safety, airline travellers safety, electrical grid, and other electrical/electronic dependent systems which have become ubiqutous in today's digital era.
 
 # **Datasets**
-The data can be found on the Humain archives of Royal Observatory of Belgium (ROB), Solar Influences Data Analysis Center's (SIDC) [webpage](https://wwwbis.sidc.be/humain/callisto_archives).
+The data can be found on the Humain archives of Royal Observatory of Belgium (ROB), Solar Influences Data Analysis Center's (SIDC) [webpage](https://www.sidc.be/humain/callisto_archives).
 
 # Annotation done using Labelme tool
 ![](pics/annotation_example_gif.gif)
@@ -37,13 +37,13 @@ The code for deployment will not be shown due to security reasons and IP issues 
 
 The deployed model running a prediction about every minutes can be found here:
 
-https://wwwbis.sidc.be/humain/callisto_ml_burst
+https://www.sidc.be/humain/callisto_ml_burst
 
 In the above webpage, the latest prediction of both the YOLOv5 object detection and the interquartile range (IQR) threshold are displayed for comparison purposes.
 
 The archives of the detected bursts through object detection can be found here (produced as from the 1st of May 2022):
 
-https://wwwbis.sidc.be/humain/callisto_ml_burst_archives
+https://www.sidc.be/humain/callisto_ml_burst_archives
 
 The Mattermost burst notification channel is not available since it is used for internal communication at work.
 
@@ -60,4 +60,3 @@ The Mattermost burst notification channel is not available since it is used for 
 2.   https://blog.roboflow.com/how-to-train-yolov5-on-a-custom-dataset/
 3.   https://towardsdatascience.com/the-practical-guide-for-object-detection-with-yolov5-algorithm-74c04aac4843
 4.   https://www.sidc.be/humain/home
-
